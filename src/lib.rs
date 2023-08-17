@@ -17,6 +17,9 @@ pub mod lc_2806_account_balance_after_rounded_purchase;
 pub mod lc_2643_row_with_maximum_ones;
 pub mod lc_81_search_in_rotated_sorted_array_ii;
 pub mod lc_2815_max_pair_sum_in_an_array;
+pub mod lc_2670_find_the_distinct_difference_array;
+pub mod lc_2678_number_of_senior_citizens;
+pub mod lc_542_01_matrix;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
