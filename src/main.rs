@@ -1,10 +1,10 @@
 use one_leetcode::format_title::convert;
-use one_leetcode::lc_542_01_matrix::Solution as lc;
+use one_leetcode::lc_1615_maximal_network_rank::Solution as lc;
 
 fn main() {
-    println!("{}", convert("542. 01 Matrix"));
+    println!("{}", convert("1615. Maximal Network Rank"));
     println!(
         "{:#?}",
-        lc::update_matrix(vec![vec![0, 0, 0], vec![0, 1, 0], vec![0, 0, 0]])
+        lc::maximal_network_rank(4, vec![vec![0, 1], vec![0, 3], vec![1, 2], vec![1, 3]])
     );
 }

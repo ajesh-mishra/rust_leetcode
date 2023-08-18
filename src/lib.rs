@@ -20,6 +20,7 @@ pub mod lc_2815_max_pair_sum_in_an_array;
 pub mod lc_2670_find_the_distinct_difference_array;
 pub mod lc_2678_number_of_senior_citizens;
 pub mod lc_542_01_matrix;
+pub mod lc_1615_maximal_network_rank;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
