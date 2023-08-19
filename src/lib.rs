@@ -21,6 +21,7 @@ pub mod lc_2670_find_the_distinct_difference_array;
 pub mod lc_2678_number_of_senior_citizens;
 pub mod lc_542_01_matrix;
 pub mod lc_1615_maximal_network_rank;
+pub mod lc_2682_find_the_losers_of_the_circular_game;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
