@@ -24,6 +24,7 @@ pub mod lc_1615_maximal_network_rank;
 pub mod lc_2682_find_the_losers_of_the_circular_game;
 pub mod lc_48_rotate_image;
 pub mod lc_459_repeated_substring_pattern;
+pub mod lc_263_ugly_number;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;

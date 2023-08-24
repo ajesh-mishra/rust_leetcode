@@ -1,11 +1,11 @@
 use one_leetcode::format_title::convert;
-use one_leetcode::lc_459_repeated_substring_pattern::Solution as lc;
+use one_leetcode::lc_263_ugly_number::Solution as lc;
 
 fn main() {
-    println!("{}", convert("459. Repeated Substring Pattern"));
+    println!("{}", convert("263. Ugly Number"));
     println!(
         "{:#?}",
-        lc::repeated_substring_pattern("aba".to_string())
+        lc::is_ugly(6)
     );
 }
     
