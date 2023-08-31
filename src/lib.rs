@@ -32,6 +32,9 @@ pub mod lc_2828_check_if_a_string_is_an_acronym_of_words;
 pub mod lc_2833_furthest_point_from_origin;
 pub mod lc_225_implement_stack_using_queues;
 pub mod lc_404_sum_of_left_leaves;
+pub mod lc_1021_remove_outermost_parentheses;
+pub mod lc_830_positions_of_large_groups;
+pub mod lc_999_available_captures_for_rook;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;

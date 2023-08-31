@@ -1,10 +1,19 @@
 use one_leetcode::format_title::convert;
-use one_leetcode::lc_404_sum_of_left_leaves::Solution as lc;
+use one_leetcode::lc_999_available_captures_for_rook::Solution as lc;
 
 fn main() {
-    println!("{}", convert("404. Sum of Left Leaves"));
+    println!("{}", convert("999. Available Captures for Rook"));
     println!(
         "{:#?}",
-        lc::sum_of_left_leaves(None)
+        lc::num_rook_captures(vec![
+            vec!['.', '.', '.', '.', '.', '.', '.', '.'],
+            vec!['.', '.', '.', 'p', '.', '.', '.', '.'],
+            vec!['.', '.', '.', 'R', '.', '.', '.', 'p'],
+            vec!['.', '.', '.', '.', '.', '.', '.', '.'],
+            vec!['.', '.', '.', '.', '.', '.', '.', '.'],
+            vec!['.', '.', '.', 'p', '.', '.', '.', '.'],
+            vec!['.', '.', '.', '.', '.', '.', '.', '.'],
+            vec!['.', '.', '.', '.', '.', '.', '.', '.']
+        ])
     );
 }
