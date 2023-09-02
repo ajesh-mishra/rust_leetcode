@@ -1,19 +1,13 @@
 use one_leetcode::format_title::convert;
-use one_leetcode::lc_999_available_captures_for_rook::Solution as lc;
+use one_leetcode::lc_2707_extra_characters_in_a_string::Solution as lc;
 
 fn main() {
-    println!("{}", convert("999. Available Captures for Rook"));
+    println!("{}", convert("2707. Extra Characters in a String"));
     println!(
         "{:#?}",
-        lc::num_rook_captures(vec![
-            vec!['.', '.', '.', '.', '.', '.', '.', '.'],
-            vec!['.', '.', '.', 'p', '.', '.', '.', '.'],
-            vec!['.', '.', '.', 'R', '.', '.', '.', 'p'],
-            vec!['.', '.', '.', '.', '.', '.', '.', '.'],
-            vec!['.', '.', '.', '.', '.', '.', '.', '.'],
-            vec!['.', '.', '.', 'p', '.', '.', '.', '.'],
-            vec!['.', '.', '.', '.', '.', '.', '.', '.'],
-            vec!['.', '.', '.', '.', '.', '.', '.', '.']
-        ])
+        lc::min_extra_char(
+            "leetscode".to_owned(),
+            vec!["leet".to_owned(), "code".to_owned(), "leetcode".to_owned()]
+        )
     );
 }

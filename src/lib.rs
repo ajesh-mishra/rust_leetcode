@@ -35,6 +35,8 @@ pub mod lc_404_sum_of_left_leaves;
 pub mod lc_1021_remove_outermost_parentheses;
 pub mod lc_830_positions_of_large_groups;
 pub mod lc_999_available_captures_for_rook;
+pub mod lc_338_counting_bits;
+pub mod lc_2707_extra_characters_in_a_string;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
