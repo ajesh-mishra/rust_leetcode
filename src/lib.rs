@@ -40,7 +40,8 @@ pub mod lc_2707_extra_characters_in_a_string;
 pub mod lc_1022_sum_of_root_to_leaf_binary_numbers;
 pub mod lc_62_unique_paths;
 pub mod lc_868_binary_gap;
-pub mod lc_933_number_of_recent_calls;
+// pub mod lc_933_number_of_recent_calls;
+pub mod lc_118_pascals_triangle;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;

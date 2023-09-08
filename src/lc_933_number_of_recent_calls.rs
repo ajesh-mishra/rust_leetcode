@@ -20,3 +20,15 @@ impl RecentCounter {
         return self.count.len() as i32;
     }
 }
+
+#[cfg(test)]
+mod test {
+    use super::RecentCounter;
+
+    #[test]
+    fn ut() {
+        let mut rc = RecentCounter::new();
+        rc.ping(10);
+    }
+}
+
