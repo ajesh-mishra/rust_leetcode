@@ -42,6 +42,8 @@ pub mod lc_62_unique_paths;
 pub mod lc_868_binary_gap;
 // pub mod lc_933_number_of_recent_calls;
 pub mod lc_118_pascals_triangle;
+pub mod lc_1005_maximize_sum_of_array_after_k_negations;
+pub mod lc_2839_check_if_strings_can_be_made_equal_with_operations_i;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
