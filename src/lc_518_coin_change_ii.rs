@@ -7,7 +7,7 @@ impl Solution {
                 match amount - coin {
                     0 => return 1,
                     ..=0 => return 0,
-                    x => return count + inner(x, coins, count)
+                    x => return count + inner(x, coins, count),
                 }
             }
             count
