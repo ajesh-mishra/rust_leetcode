@@ -46,6 +46,8 @@ pub mod lc_118_pascals_triangle;
 pub mod lc_2839_check_if_strings_can_be_made_equal_with_operations_i;
 pub mod lc_2843_count_symmetric_integers;
 pub mod lc_2848_points_that_intersect_with_cars;
+pub mod lc_2765_longest_alternating_subarray;
+
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
