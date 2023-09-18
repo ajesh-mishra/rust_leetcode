@@ -1,7 +1,19 @@
 use one_leetcode::format_title::convert;
-use one_leetcode::lc_2765_longest_alternating_subarray::Solution as lc;
+use one_leetcode::lc_1337_the_k_weakest_rows_in_a_matrix::Solution as lc;
 
 fn main() {
-    println!("{}", convert("2765. Longest Alternating Subarray"));
-    println!("{:#?}", lc::alternating_subarray(vec![2, 3, 4, 3, 4]));
+    println!("{}", convert("1337. The K Weakest Rows in a Matrix"));
+    println!(
+        "{:#?}",
+        lc::k_weakest_rows(
+            vec![
+                vec![1, 1, 0, 0, 0],
+                vec![1, 1, 1, 1, 0],
+                vec![1, 0, 0, 0, 0],
+                vec![1, 1, 0, 0, 0],
+                vec![1, 1, 1, 1, 1]
+            ],
+            3
+        )
+    );
 }
