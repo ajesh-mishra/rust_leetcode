@@ -49,6 +49,7 @@ pub mod lc_2848_points_that_intersect_with_cars;
 pub mod lc_2765_longest_alternating_subarray;
 pub mod lc_2855_minimum_right_shifts_to_sort_the_array;
 pub mod lc_1337_the_k_weakest_rows_in_a_matrix;
+pub mod lc_287_find_the_duplicate_number;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;

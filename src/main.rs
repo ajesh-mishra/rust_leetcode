@@ -1,19 +1,7 @@
 use one_leetcode::format_title::convert;
-use one_leetcode::lc_1337_the_k_weakest_rows_in_a_matrix::Solution as lc;
+use one_leetcode::lc_287_find_the_duplicate_number::Solution as lc;
 
 fn main() {
-    println!("{}", convert("1337. The K Weakest Rows in a Matrix"));
-    println!(
-        "{:#?}",
-        lc::k_weakest_rows(
-            vec![
-                vec![1, 1, 0, 0, 0],
-                vec![1, 1, 1, 1, 0],
-                vec![1, 0, 0, 0, 0],
-                vec![1, 1, 0, 0, 0],
-                vec![1, 1, 1, 1, 1]
-            ],
-            3
-        )
-    );
+    println!("{}", convert("287. Find the Duplicate Number"));
+    println!("{:#?}", lc::find_duplicate(vec![1, 3, 4, 2, 2]));
 }
