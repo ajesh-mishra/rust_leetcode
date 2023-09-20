@@ -50,6 +50,7 @@ pub mod lc_2765_longest_alternating_subarray;
 pub mod lc_2855_minimum_right_shifts_to_sort_the_array;
 pub mod lc_1337_the_k_weakest_rows_in_a_matrix;
 pub mod lc_287_find_the_duplicate_number;
+pub mod lc_2859_sum_of_values_at_indices_with_k_set_bits;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
