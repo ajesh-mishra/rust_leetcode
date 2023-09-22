@@ -53,6 +53,7 @@ pub mod lc_287_find_the_duplicate_number;
 pub mod lc_2859_sum_of_values_at_indices_with_k_set_bits;
 pub mod lc_2748_number_of_beautiful_pairs;
 pub mod lc_2744_find_maximum_number_of_string_pairs;
+pub mod lc_392_is_subsequence;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
