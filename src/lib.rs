@@ -57,6 +57,9 @@ pub mod lc_392_is_subsequence;
 pub mod lc_1048_longest_string_chain;
 pub mod lc_2614_prime_in_diagonal;
 pub mod lc_389_find_the_difference; 
+pub mod lc_316_remove_duplicate_letters;
+pub mod lc_2864_maximum_odd_binary_number;
+pub mod lc_896_monotonic_array;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
