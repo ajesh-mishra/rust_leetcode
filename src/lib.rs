@@ -60,6 +60,10 @@ pub mod lc_389_find_the_difference;
 pub mod lc_316_remove_duplicate_letters;
 pub mod lc_2864_maximum_odd_binary_number;
 pub mod lc_896_monotonic_array;
+pub mod lc_2869_minimum_operations_to_collect_elements;
+pub mod lc_2873_maximum_value_of_an_ordered_triplet_i;
+pub mod lc_1512_number_of_good_pairs;
+pub mod lc_706_design_hashmap;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
