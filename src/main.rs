@@ -2,6 +2,6 @@ use one_leetcode::format_title::convert;
 use one_leetcode::lc_2864_maximum_odd_binary_number::Solution as lc;
 
 fn main() {
-    println!("{}", convert("706. Design HashMap"));
+    println!("{}", convert("2432. The Employee That Worked on the Longest Task"));
     println!("{:#?}", lc::maximum_odd_binary_number("bcabc".to_owned()));
 }

@@ -64,6 +64,7 @@ pub mod lc_2869_minimum_operations_to_collect_elements;
 pub mod lc_2873_maximum_value_of_an_ordered_triplet_i;
 pub mod lc_1512_number_of_good_pairs;
 pub mod lc_706_design_hashmap;
+pub mod lc_2432_the_employee_that_worked_on_the_longest_task;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
