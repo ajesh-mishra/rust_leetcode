@@ -69,6 +69,7 @@ pub mod lc_34_find_first_and_last_position_of_element_in_sorted_array;
 pub mod lc_1790_check_if_one_string_swap_can_make_strings_equal;
 pub mod lc_2899_last_visited_integers;
 pub mod lc_2903_find_indices_with_index_and_value_difference_i;
+pub mod lc_383_ransom_note;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
