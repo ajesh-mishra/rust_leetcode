@@ -70,6 +70,7 @@ pub mod lc_1790_check_if_one_string_swap_can_make_strings_equal;
 pub mod lc_2899_last_visited_integers;
 pub mod lc_2903_find_indices_with_index_and_value_difference_i;
 pub mod lc_383_ransom_note;
+pub mod lc_1281_subtract_the_product_and_sum_of_digits_of_an_integer;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
