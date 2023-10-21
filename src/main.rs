@@ -2,6 +2,6 @@ use one_leetcode::format_title::convert;
 use one_leetcode::lc_2864_maximum_odd_binary_number::Solution as lc;
 
 fn main() {
-    println!("{}", convert("1281. Subtract the Product and Sum of Digits of an Integer"));
+    println!("{}", convert("1413. Minimum Value to Get Positive Step by Step Sum"));
     println!("{:#?}", lc::maximum_odd_binary_number("bcabc".to_owned()));
 }
