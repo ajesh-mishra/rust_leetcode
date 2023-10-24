@@ -74,6 +74,7 @@ pub mod lc_1281_subtract_the_product_and_sum_of_digits_of_an_integer;
 pub mod lc_1413_minimum_value_to_get_positive_step_by_step_sum;
 pub mod lc_1399_count_largest_group;
 pub mod lc_342_power_of_four;
+pub mod lc_2908_minimum_sum_of_mountain_triplets_i;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
