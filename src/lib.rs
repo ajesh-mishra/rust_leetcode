@@ -77,6 +77,7 @@ pub mod lc_342_power_of_four;
 pub mod lc_2908_minimum_sum_of_mountain_triplets_i;
 pub mod lc_1967_number_of_strings_that_appear_as_substrings_in_word;
 pub mod lc_1436_destination_city;
+pub mod lc_2913_subarrays_distinct_element_sum_of_squares_i;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
