@@ -78,6 +78,8 @@ pub mod lc_2908_minimum_sum_of_mountain_triplets_i;
 pub mod lc_1967_number_of_strings_that_appear_as_substrings_in_word;
 pub mod lc_1436_destination_city;
 pub mod lc_2913_subarrays_distinct_element_sum_of_squares_i;
+pub mod lc_2923_find_champion_i;
+mod lc_2710_remove_trailing_zeros_from_a_string;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
