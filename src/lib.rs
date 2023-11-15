@@ -80,6 +80,10 @@ pub mod lc_1436_destination_city;
 pub mod lc_2913_subarrays_distinct_element_sum_of_squares_i;
 pub mod lc_2923_find_champion_i;
 mod lc_2710_remove_trailing_zeros_from_a_string;
+pub mod lc_2562_find_the_array_concatenation_value;
+pub mod lc_2785_sort_vowels_in_a_string;
+pub mod lc_2932_maximum_strong_pair_xor_i;
+pub mod lc_2347_best_poker_hand;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
