@@ -84,6 +84,8 @@ pub mod lc_2562_find_the_array_concatenation_value;
 pub mod lc_2785_sort_vowels_in_a_string;
 pub mod lc_2932_maximum_strong_pair_xor_i;
 pub mod lc_2347_best_poker_hand;
+pub mod lc_2119_a_number_after_a_double_reversal;
+pub mod lc_2937_make_three_strings_equal;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
