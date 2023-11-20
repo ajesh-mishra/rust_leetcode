@@ -86,6 +86,7 @@ pub mod lc_2932_maximum_strong_pair_xor_i;
 pub mod lc_2347_best_poker_hand;
 pub mod lc_2119_a_number_after_a_double_reversal;
 pub mod lc_2937_make_three_strings_equal;
+pub mod lc_2124_check_if_all_as_appears_before_all_bs;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
