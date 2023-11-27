@@ -87,6 +87,10 @@ pub mod lc_2347_best_poker_hand;
 pub mod lc_2119_a_number_after_a_double_reversal;
 pub mod lc_2937_make_three_strings_equal;
 pub mod lc_2124_check_if_all_as_appears_before_all_bs;
+pub mod lc_1957_delete_characters_to_make_fancy_string;
+pub mod lc_1630_arithmetic_subarrays;
+pub mod lc_1812_determine_color_of_a_chessboard_square;
+pub mod lc_2942_find_words_containing_character;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
