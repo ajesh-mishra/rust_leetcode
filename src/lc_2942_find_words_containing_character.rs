@@ -5,7 +5,7 @@ impl Solution {
         words
             .iter()
             .enumerate()
-            .filter(|(_, word)| word.contains(x.to_string().as_str()))
+            .filter(|(_, word)| word.contains(x))
             .map(|(index, _)| index as i32)
             .collect::<Vec<i32>>()
     }
