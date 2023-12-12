@@ -91,8 +91,10 @@ pub mod lc_1957_delete_characters_to_make_fancy_string;
 pub mod lc_1630_arithmetic_subarrays;
 pub mod lc_1812_determine_color_of_a_chessboard_square;
 pub mod lc_2942_find_words_containing_character;
-mod lc_2946_matrix_similarity_after_cyclic_shifts;
-mod lc_2951_find_the_peaks;
+pub mod lc_2946_matrix_similarity_after_cyclic_shifts;
+pub mod lc_2951_find_the_peaks;
+pub mod lc_1287_element_appearing_more_than_25_in_sorted_array;
+pub mod lc_1464_maximum_product_of_two_elements_in_an_array;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
