@@ -95,6 +95,7 @@ pub mod lc_2946_matrix_similarity_after_cyclic_shifts;
 pub mod lc_2951_find_the_peaks;
 pub mod lc_1287_element_appearing_more_than_25_in_sorted_array;
 pub mod lc_1464_maximum_product_of_two_elements_in_an_array;
+pub mod lc_1582_special_positions_in_a_binary_matrix;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
