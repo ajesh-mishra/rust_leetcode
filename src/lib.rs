@@ -96,6 +96,8 @@ pub mod lc_2951_find_the_peaks;
 pub mod lc_1287_element_appearing_more_than_25_in_sorted_array;
 pub mod lc_1464_maximum_product_of_two_elements_in_an_array;
 pub mod lc_1582_special_positions_in_a_binary_matrix;
+pub mod lc_2482_difference_between_ones_and_zeros_in_row_and_column;
+pub mod lc_2956_find_common_elements_between_two_arrays;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
