@@ -100,6 +100,7 @@ pub mod lc_2482_difference_between_ones_and_zeros_in_row_and_column;
 pub mod lc_2956_find_common_elements_between_two_arrays;
 pub mod lc_2960_count_tested_devices_after_test_operations;
 pub mod lc_2965_find_missing_and_repeated_values;
+pub mod lc_661_image_smoother;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
