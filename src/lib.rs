@@ -102,6 +102,7 @@ pub mod lc_2960_count_tested_devices_after_test_operations;
 pub mod lc_2965_find_missing_and_repeated_values;
 pub mod lc_661_image_smoother;
 pub mod lc_2706_buy_two_chocolates;
+pub mod lc_1637_widest_vertical_area_between_two_points_containing_no_points;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
