@@ -104,6 +104,9 @@ pub mod lc_661_image_smoother;
 pub mod lc_2706_buy_two_chocolates;
 pub mod lc_1637_widest_vertical_area_between_two_points_containing_no_points;
 pub mod lc_1422_maximum_score_after_splitting_a_string;
+pub mod lc_1496_path_crossing;
+pub mod lc_1758_minimum_changes_to_make_alternating_binary_string;
+pub mod lc_2974_minimum_number_game;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
