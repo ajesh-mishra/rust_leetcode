@@ -109,6 +109,7 @@ pub mod lc_1758_minimum_changes_to_make_alternating_binary_string;
 pub mod lc_2974_minimum_number_game;
 pub mod lc_2114_maximum_number_of_words_found_in_sentences;
 pub mod lc_1897_redistribute_characters_to_make_all_strings_equal;
+pub mod lc_1624_largest_substring_between_two_equal_characters;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
