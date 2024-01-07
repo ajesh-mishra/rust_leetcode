@@ -110,6 +110,9 @@ pub mod lc_2974_minimum_number_game;
 pub mod lc_2114_maximum_number_of_words_found_in_sentences;
 pub mod lc_1897_redistribute_characters_to_make_all_strings_equal;
 pub mod lc_1624_largest_substring_between_two_equal_characters;
+pub mod lc_2980_check_if_bitwise_or_has_trailing_zeros;
+pub mod lc_10031_smallest_missing_integer_greater_than_sequential_prefix_sum;
+pub mod lc_10035_maximum_area_of_longest_diagonal_rectangle;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
