@@ -113,6 +113,9 @@ pub mod lc_1624_largest_substring_between_two_equal_characters;
 pub mod lc_2980_check_if_bitwise_or_has_trailing_zeros;
 pub mod lc_10031_smallest_missing_integer_greater_than_sequential_prefix_sum;
 pub mod lc_10035_maximum_area_of_longest_diagonal_rectangle;
+pub mod lc_2595_number_of_even_and_odd_bits;
+pub mod lc_2586_count_the_number_of_vowel_strings_in_range;
+pub mod lc_2578_split_with_minimum_sum;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
