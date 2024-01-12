@@ -116,6 +116,7 @@ pub mod lc_10035_maximum_area_of_longest_diagonal_rectangle;
 pub mod lc_2595_number_of_even_and_odd_bits;
 pub mod lc_2586_count_the_number_of_vowel_strings_in_range;
 pub mod lc_2578_split_with_minimum_sum;
+pub mod lc_1704_determine_if_string_halves_are_alike;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
