@@ -119,6 +119,7 @@ pub mod lc_2578_split_with_minimum_sum;
 pub mod lc_1704_determine_if_string_halves_are_alike;
 pub mod lc_2639_find_the_width_of_columns_of_a_grid;
 pub mod lc_1657_determine_if_two_strings_are_close;
+pub mod lc_3005_count_elements_with_maximum_frequency;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
