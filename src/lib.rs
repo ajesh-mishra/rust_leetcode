@@ -121,6 +121,7 @@ pub mod lc_2639_find_the_width_of_columns_of_a_grid;
 pub mod lc_1657_determine_if_two_strings_are_close;
 pub mod lc_3005_count_elements_with_maximum_frequency;
 pub mod lc_2225_find_players_with_zero_or_one_losses;
+pub mod lc_2600_k_items_with_the_maximum_sum;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
