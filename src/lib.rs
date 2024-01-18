@@ -124,6 +124,7 @@ pub mod lc_2225_find_players_with_zero_or_one_losses;
 pub mod lc_2600_k_items_with_the_maximum_sum;
 pub mod lc_2558_take_gifts_from_the_richest_pile;
 pub mod lc_1207_unique_number_of_occurrences;
+pub mod lc_2605_form_smallest_number_from_two_digit_arrays;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
