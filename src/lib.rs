@@ -126,6 +126,7 @@ pub mod lc_2558_take_gifts_from_the_richest_pile;
 pub mod lc_1207_unique_number_of_occurrences;
 pub mod lc_2605_form_smallest_number_from_two_digit_arrays;
 pub mod lc_2570_merge_two_2d_arrays_by_summing_values;
+pub mod lc_326_power_of_three;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
