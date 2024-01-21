@@ -127,6 +127,8 @@ pub mod lc_1207_unique_number_of_occurrences;
 pub mod lc_2605_form_smallest_number_from_two_digit_arrays;
 pub mod lc_2570_merge_two_2d_arrays_by_summing_values;
 pub mod lc_326_power_of_three;
+pub mod lc_3010_divide_an_array_into_subarrays_with_minimum_cost_i;
+pub mod lc_3014_minimum_number_of_pushes_to_type_word_i;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
