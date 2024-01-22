@@ -129,6 +129,7 @@ pub mod lc_2570_merge_two_2d_arrays_by_summing_values;
 pub mod lc_326_power_of_three;
 pub mod lc_3010_divide_an_array_into_subarrays_with_minimum_cost_i;
 pub mod lc_3014_minimum_number_of_pushes_to_type_word_i;
+pub mod lc_645_set_mismatch;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
