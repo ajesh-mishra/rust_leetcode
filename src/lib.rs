@@ -131,6 +131,7 @@ pub mod lc_3010_divide_an_array_into_subarrays_with_minimum_cost_i;
 pub mod lc_3014_minimum_number_of_pushes_to_type_word_i;
 pub mod lc_645_set_mismatch;
 pub mod lc_2341_maximum_number_of_pairs_in_array;
+pub mod lc_2236_root_equals_sum_of_children;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
