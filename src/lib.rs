@@ -135,6 +135,9 @@ pub mod lc_2236_root_equals_sum_of_children;
 pub mod lc_2331_evaluate_boolean_binary_tree;
 pub mod lc_2335_minimum_amount_of_time_to_fill_cups;
 pub mod lc_967_numbers_with_same_consecutive_differences;
+pub mod lc_3019_number_of_changing_keys;
+pub mod lc_2103_rings_and_rods;
+pub mod lc_206_reverse_linked_list;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
