@@ -138,6 +138,10 @@ pub mod lc_967_numbers_with_same_consecutive_differences;
 pub mod lc_3019_number_of_changing_keys;
 pub mod lc_2103_rings_and_rods;
 pub mod lc_206_reverse_linked_list;
+pub mod lc_1971_find_if_path_exists_in_graph;
+pub mod lc_3028_ant_on_the_boundary;
+pub mod lc_3024_type_of_triangle_ii;
+pub mod lc_387_first_unique_character_in_a_string;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
