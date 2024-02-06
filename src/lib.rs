@@ -142,6 +142,8 @@ pub mod lc_1971_find_if_path_exists_in_graph;
 pub mod lc_3028_ant_on_the_boundary;
 pub mod lc_3024_type_of_triangle_ii;
 pub mod lc_387_first_unique_character_in_a_string;
+pub mod lc_1791_find_center_of_star_graph;
+pub mod lc_701_insert_into_a_binary_search_tree;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
