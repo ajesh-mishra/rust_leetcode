@@ -144,6 +144,11 @@ pub mod lc_3024_type_of_triangle_ii;
 pub mod lc_387_first_unique_character_in_a_string;
 pub mod lc_1791_find_center_of_star_graph;
 pub mod lc_701_insert_into_a_binary_search_tree;
+pub mod lc_451_sort_characters_by_frequency;
+pub mod lc_2057_smallest_index_with_equal_value;
+pub mod lc_2094_finding_3_digit_even_numbers;
+pub mod lc_2138_divide_a_string_into_groups_of_size_k;
+pub mod lc_3033_modify_the_matrix;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
