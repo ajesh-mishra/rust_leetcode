@@ -149,6 +149,7 @@ pub mod lc_2057_smallest_index_with_equal_value;
 pub mod lc_2094_finding_3_digit_even_numbers;
 pub mod lc_2138_divide_a_string_into_groups_of_size_k;
 pub mod lc_3033_modify_the_matrix;
+pub mod lc_169_majority_element;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
