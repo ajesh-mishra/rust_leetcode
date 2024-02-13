@@ -1,7 +1,8 @@
 use one_leetcode::format_title::convert;
-use one_leetcode::lc_2864_maximum_odd_binary_number::Solution as lc;
 
 fn main() {
-    println!("{}", convert("169. Majority Element"));
-    println!("{:#?}", lc::maximum_odd_binary_number("bcabc".to_owned()));
+    println!(
+        "{}",
+        convert("2108. Find First Palindromic String in the Array")
+    );
 }
