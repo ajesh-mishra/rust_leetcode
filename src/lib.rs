@@ -153,6 +153,11 @@ pub mod lc_169_majority_element;
 pub mod lc_2108_find_first_palindromic_string_in_the_array;
 pub mod lc_841_keys_and_rooms;
 pub mod lc_2149_rearrange_array_elements_by_sign;
+pub mod lc_2685_count_the_number_of_complete_components;
+pub mod lc_2200_find_all_k_distant_indices_in_an_array;
+pub mod lc_2477_minimum_fuel_cost_to_report_to_the_capital;
+pub mod lc_3038_maximum_number_of_operations_with_the_same_score_i;
+pub mod lc_1252_cells_with_odd_values_in_a_matrix;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
