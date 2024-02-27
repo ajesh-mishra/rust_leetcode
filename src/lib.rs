@@ -158,6 +158,10 @@ pub mod lc_2200_find_all_k_distant_indices_in_an_array;
 pub mod lc_2477_minimum_fuel_cost_to_report_to_the_capital;
 pub mod lc_3038_maximum_number_of_operations_with_the_same_score_i;
 pub mod lc_1252_cells_with_odd_values_in_a_matrix;
+pub mod lc_766_toeplitz_matrix;
+pub mod lc_3042_count_prefix_and_suffix_pairs_i;
+pub mod lc_1827_minimum_operations_to_make_the_array_increasing;
+pub mod lc_543_diameter_of_binary_tree;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;

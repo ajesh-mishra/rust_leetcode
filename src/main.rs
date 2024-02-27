@@ -3,6 +3,6 @@ use one_leetcode::format_title::convert;
 fn main() {
     println!(
         "{}",
-        convert("1252. Cells with Odd Values in a Matrix")
+        convert("543. Diameter of Binary Tree")
     );
 }
