@@ -23,31 +23,22 @@ pub struct Solution {}
 
 impl Solution {
     pub fn diameter_of_binary_tree(root: Option<Rc<RefCell<TreeNode>>>) -> i32 {
-        fn dfs(node: Rc<RefCell<TreeNode>>, diameter: &mut i32) -> i32 {
-            let n = node.borrow();
-            if n.left.is_none() && n.right.is_none() {
-                return 0;
+        fn dfs(node: Option<Rc<RefCell<TreeNode>>>, diameter: &mut i32) -> i32 {
+            if let Some(n) = node {
+                let n = n.borrow();
+                let left = dfs(n.left.clone(), diameter);
+                let right = dfs(n.right.clone(), diameter);
+
+                *diameter = (left + right).max(*diameter);
+                left.max(right) + 1
+            } else {
+                0
             }
-            let (mut left, mut right) = (0, 0);
-            
-            if let Some(l) = n.left.clone() {
-                left = 1 + dfs(l, diameter);
-            }
-            
-            if let Some(r) = n.right.clone() {
-                right = 1 + dfs(r, diameter);
-            }
-            
-            *diameter = (left + right).max(*diameter);
-            left.max(right)
         }
 
         let mut diameter = 0;
-
-        if let Some(r) = root {
-            dfs(r, &mut diameter);
-        }
-
+        dfs(root, &mut diameter);
+        
         diameter
     }
 }

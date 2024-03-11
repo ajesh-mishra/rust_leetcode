@@ -162,6 +162,8 @@ pub mod lc_766_toeplitz_matrix;
 pub mod lc_3042_count_prefix_and_suffix_pairs_i;
 pub mod lc_1827_minimum_operations_to_make_the_array_increasing;
 pub mod lc_543_diameter_of_binary_tree;
+pub mod lc_3069_distribute_elements_into_two_arrays_i;
+pub mod lc_791_custom_sort_string;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
