@@ -164,6 +164,9 @@ pub mod lc_1827_minimum_operations_to_make_the_array_increasing;
 pub mod lc_543_diameter_of_binary_tree;
 pub mod lc_3069_distribute_elements_into_two_arrays_i;
 pub mod lc_791_custom_sort_string;
+pub mod lc_3090_maximum_length_substring_with_two_occurrences;
+pub mod lc_3099_harshad_number;
+pub mod lc_1614_maximum_nesting_depth_of_the_parentheses;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
