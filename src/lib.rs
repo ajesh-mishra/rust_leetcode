@@ -167,6 +167,10 @@ pub mod lc_791_custom_sort_string;
 pub mod lc_3090_maximum_length_substring_with_two_occurrences;
 pub mod lc_3099_harshad_number;
 pub mod lc_1614_maximum_nesting_depth_of_the_parentheses;
+pub mod lc_1544_make_the_string_great;
+pub mod lc_1249_minimum_remove_to_make_valid_parentheses;
+pub mod lc_678_valid_parenthesis_string;
+pub mod lc_3105_longest_strictly_increasing_or_strictly_decreasing_subarray;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
