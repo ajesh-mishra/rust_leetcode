@@ -171,6 +171,7 @@ pub mod lc_1544_make_the_string_great;
 pub mod lc_1249_minimum_remove_to_make_valid_parentheses;
 pub mod lc_678_valid_parenthesis_string;
 pub mod lc_3105_longest_strictly_increasing_or_strictly_decreasing_subarray;
+pub mod lc_2073_time_needed_to_buy_tickets;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
