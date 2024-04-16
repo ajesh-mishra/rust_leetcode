@@ -172,6 +172,11 @@ pub mod lc_1249_minimum_remove_to_make_valid_parentheses;
 pub mod lc_678_valid_parenthesis_string;
 pub mod lc_3105_longest_strictly_increasing_or_strictly_decreasing_subarray;
 pub mod lc_2073_time_needed_to_buy_tickets;
+pub mod lc_104_maximum_depth_of_binary_tree;
+pub mod lc_3110_score_of_a_string;
+pub mod lc_101_symmetric_tree;
+pub mod lc_129_sum_root_to_leaf_numbers;
+pub mod lc_623_add_one_row_to_tree;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
