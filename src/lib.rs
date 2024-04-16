@@ -177,6 +177,7 @@ pub mod lc_3110_score_of_a_string;
 pub mod lc_101_symmetric_tree;
 pub mod lc_129_sum_root_to_leaf_numbers;
 pub mod lc_623_add_one_row_to_tree;
+pub mod lc_3114_latest_time_you_can_obtain_after_replacing_characters;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
