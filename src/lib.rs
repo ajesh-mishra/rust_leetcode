@@ -180,6 +180,9 @@ pub mod lc_623_add_one_row_to_tree;
 pub mod lc_3114_latest_time_you_can_obtain_after_replacing_characters;
 pub mod lc_257_binary_tree_paths;
 pub mod lc_988_smallest_string_starting_from_leaf;
+pub mod lc_463_island_perimeter;
+pub mod lc_200_number_of_islands;
+pub mod lc_1992_find_all_groups_of_farmland;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;

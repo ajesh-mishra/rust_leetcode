@@ -3,6 +3,6 @@ use one_leetcode::format_title::convert;
 fn main() {
     println!(
         "{}",
-        convert("988. Smallest String Starting From Leaf")
+        convert("1992. Find All Groups of Farmland")
     );
 }
