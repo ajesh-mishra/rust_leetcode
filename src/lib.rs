@@ -183,6 +183,7 @@ pub mod lc_988_smallest_string_starting_from_leaf;
 pub mod lc_463_island_perimeter;
 pub mod lc_200_number_of_islands;
 pub mod lc_1992_find_all_groups_of_farmland;
+pub mod lc_802_find_eventual_safe_states;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
