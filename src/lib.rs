@@ -184,6 +184,11 @@ pub mod lc_463_island_perimeter;
 pub mod lc_200_number_of_islands;
 pub mod lc_1992_find_all_groups_of_farmland;
 pub mod lc_802_find_eventual_safe_states;
+pub mod lc_752_open_the_lock;
+pub mod lc_3120_count_the_number_of_special_characters_i;
+pub mod lc_834_sum_of_distances_in_tree;
+pub mod lc_2000_reverse_prefix_of_word;
+pub mod lc_165_compare_version_numbers;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
