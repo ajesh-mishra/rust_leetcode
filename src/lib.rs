@@ -189,6 +189,7 @@ pub mod lc_3120_count_the_number_of_special_characters_i;
 pub mod lc_834_sum_of_distances_in_tree;
 pub mod lc_2000_reverse_prefix_of_word;
 pub mod lc_165_compare_version_numbers;
+pub mod lc_3127_make_a_square_with_the_same_color;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
