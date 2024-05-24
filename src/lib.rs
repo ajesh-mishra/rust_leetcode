@@ -194,6 +194,8 @@ pub mod lc_1219_path_with_maximum_gold;
 pub mod lc_3136_valid_word;
 pub mod lc_3142_check_if_grid_satisfies_conditions;
 pub mod lc_3146_permutation_difference_between_two_strings;
+pub mod lc_1325_delete_leaves_with_a_given_value;
+pub mod lc_3151_special_array_i;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
