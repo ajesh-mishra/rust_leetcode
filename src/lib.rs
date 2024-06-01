@@ -196,6 +196,9 @@ pub mod lc_3142_check_if_grid_satisfies_conditions;
 pub mod lc_3146_permutation_difference_between_two_strings;
 pub mod lc_1325_delete_leaves_with_a_given_value;
 pub mod lc_3151_special_array_i;
+pub mod lc_1608_special_array_with_x_elements_greater_than_or_equal_x;
+pub mod lc_3162_find_the_number_of_good_pairs_i;
+pub mod lc_3158_find_the_xor_of_numbers_which_appear_twice;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
