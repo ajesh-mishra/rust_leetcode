@@ -199,6 +199,8 @@ pub mod lc_3151_special_array_i;
 pub mod lc_1608_special_array_with_x_elements_greater_than_or_equal_x;
 pub mod lc_3162_find_the_number_of_good_pairs_i;
 pub mod lc_3158_find_the_xor_of_numbers_which_appear_twice;
+pub mod lc_344_reverse_string;
+pub mod lc_3168_minimum_number_of_chairs_in_a_waiting_room;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
