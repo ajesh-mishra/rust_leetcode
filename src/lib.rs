@@ -203,6 +203,7 @@ pub mod lc_344_reverse_string;
 pub mod lc_3168_minimum_number_of_chairs_in_a_waiting_room;
 pub mod lc_2486_append_characters_to_string_to_make_subsequence;
 pub mod lc_409_longest_palindrome;
+pub mod lc_3174_clear_digits;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
