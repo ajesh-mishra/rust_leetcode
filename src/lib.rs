@@ -207,6 +207,10 @@ pub mod lc_3174_clear_digits;
 pub mod lc_3184_count_pairs_that_form_a_complete_day_i;
 pub mod lc_3178_find_the_child_who_has_the_ball_after_k_seconds;
 pub mod lc_3194_minimum_average_of_smallest_and_largest_elements;
+pub mod lc_1518_water_bottles;
+pub mod lc_3210_find_the_encrypted_string;
+pub mod lc_1701_average_waiting_time;
+pub mod lc_1598_crawler_log_folder;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
