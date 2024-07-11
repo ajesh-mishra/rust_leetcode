@@ -211,6 +211,7 @@ pub mod lc_1518_water_bottles;
 pub mod lc_3210_find_the_encrypted_string;
 pub mod lc_1701_average_waiting_time;
 pub mod lc_1598_crawler_log_folder;
+pub mod lc_1190_reverse_substrings_between_each_pair_of_parentheses;
 
 // NeetCode RoadMap
 pub mod lc_217_contains_duplicate;
